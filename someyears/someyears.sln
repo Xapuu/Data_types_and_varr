@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExactSumNumbers", "ExactSum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Eleveator", "4Eleveator\4Eleveator.csproj", "{FCD1C01D-AE57-4915-87C5-6A50DE575F2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialNumber", "SpecialNumber\SpecialNumber.csproj", "{FB84FB58-0A77-4F4A-A45D-0FB0419D5B17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FCD1C01D-AE57-4915-87C5-6A50DE575F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCD1C01D-AE57-4915-87C5-6A50DE575F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCD1C01D-AE57-4915-87C5-6A50DE575F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB84FB58-0A77-4F4A-A45D-0FB0419D5B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB84FB58-0A77-4F4A-A45D-0FB0419D5B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB84FB58-0A77-4F4A-A45D-0FB0419D5B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB84FB58-0A77-4F4A-A45D-0FB0419D5B17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
