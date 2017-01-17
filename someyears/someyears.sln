@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yearstosomething", "yearsto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea12digits", "CircleArea12digits\CircleArea12digits.csproj", "{2C06E02B-9ADB-4F12-A1F1-B6B51AACDE29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExactSumNumbers", "ExactSumNumbers\ExactSumNumbers.csproj", "{38F01630-69C9-4575-A1BE-10DD5C2434EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2C06E02B-9ADB-4F12-A1F1-B6B51AACDE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C06E02B-9ADB-4F12-A1F1-B6B51AACDE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C06E02B-9ADB-4F12-A1F1-B6B51AACDE29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F01630-69C9-4575-A1BE-10DD5C2434EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F01630-69C9-4575-A1BE-10DD5C2434EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F01630-69C9-4575-A1BE-10DD5C2434EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F01630-69C9-4575-A1BE-10DD5C2434EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
