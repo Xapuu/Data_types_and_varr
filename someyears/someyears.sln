@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Eleveator", "4Eleveator\4E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialNumber", "SpecialNumber\SpecialNumber.csproj", "{FB84FB58-0A77-4F4A-A45D-0FB0419D5B17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagickLetters", "MagickLetters\MagickLetters.csproj", "{57495A46-5487-447A-8ACB-44C138FD209A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FB84FB58-0A77-4F4A-A45D-0FB0419D5B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB84FB58-0A77-4F4A-A45D-0FB0419D5B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB84FB58-0A77-4F4A-A45D-0FB0419D5B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57495A46-5487-447A-8ACB-44C138FD209A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57495A46-5487-447A-8ACB-44C138FD209A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57495A46-5487-447A-8ACB-44C138FD209A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57495A46-5487-447A-8ACB-44C138FD209A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
