@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea12digits", "Circl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExactSumNumbers", "ExactSumNumbers\ExactSumNumbers.csproj", "{38F01630-69C9-4575-A1BE-10DD5C2434EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Eleveator", "4Eleveator\4Eleveator.csproj", "{FCD1C01D-AE57-4915-87C5-6A50DE575F2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{38F01630-69C9-4575-A1BE-10DD5C2434EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38F01630-69C9-4575-A1BE-10DD5C2434EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38F01630-69C9-4575-A1BE-10DD5C2434EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD1C01D-AE57-4915-87C5-6A50DE575F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD1C01D-AE57-4915-87C5-6A50DE575F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD1C01D-AE57-4915-87C5-6A50DE575F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD1C01D-AE57-4915-87C5-6A50DE575F2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
